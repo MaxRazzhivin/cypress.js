@@ -1,0 +1,16 @@
+{
+"host": "https://pokemonbattle.ru/",
+"login": ":nth-child(1) > .auth__input",
+"password": "#password",
+"login_button": ".auth__button",
+"shop_btn": ".header__btns > :nth-child(4)",
+"trainer_8_buy_btn": ".available:nth-child(8) button",
+"credit_card_input":".credit",
+"credit_card_date_input": ".k_input_date",
+"cvv_input": ".k_input_ccv",
+"name_for_card_input": ".k_input_name",
+"pay_btn_card_menu": ".pay-btn",
+"sms_code_input": "#cardnumber",
+"payment_submit_btn": ".payment__submit-button",
+"return_main_page": ".payment__adv"
+}
